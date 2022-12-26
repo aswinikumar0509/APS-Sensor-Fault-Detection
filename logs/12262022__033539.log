@@ -1,0 +1,4 @@
+[ 2022-12-26 03:35:39,651 ] 148 numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+[ 2022-12-26 03:35:39,651 ] 160 numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+[ 2022-12-26 03:35:43,367 ] 14 root - INFO - Creating model resolver object
+[ 2022-12-26 03:35:43,367 ] 16 root - INFO - Reading file :/config/workspace/aps_failure_training_set1.csv
