@@ -15,3 +15,7 @@ In this case cost-1 refer to the cost that an unnessary checks needs to be done 
 
 
 From the above problem statements we could observe that we have to reduce false positive and false negative.More importantly we have to reduce the false negative, Since the cost incurred due to false negative 50 times higher than the false positive.
+
+# Machine Learning Pipeline
+
+![image](https://user-images.githubusercontent.com/64352951/210489887-64376a49-f675-412c-bede-daf9e97a63d3.png)
